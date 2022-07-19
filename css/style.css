@@ -2698,14 +2698,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-secondary {
-  color: #62C3E7;
-  border-color: #62C3E7;
+  color: #d4af37;
+  border-color: #d4af37;
 }
 
 .btn-outline-secondary:hover {
   color: #212529;
-  background-color: #62C3E7;
-  border-color: #62C3E7;
+  background-color: #d4af37;
+  border-color: #d4af37;
 }
 
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
@@ -9953,7 +9953,7 @@ h6,
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #F195B2;
+  color: #4a2c2a;
   background: #FFFFFF;
   border-radius: 60px;
   font-size: 30px;
@@ -9996,7 +9996,7 @@ h6,
 }
 
 .product-item:hover {
-  background: #62C3E7 !important;
+  background: #d4af37 !important;
 }
 
 .product-item:hover h5 {
@@ -10004,7 +10004,7 @@ h6,
 }
 
 .product-item:hover .btn {
-  background: #F195B2 !important;
+  background: #4a2c2a !important;
 }
 
 .portfolio-item::after {
